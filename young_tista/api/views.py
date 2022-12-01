@@ -19,12 +19,12 @@ router = APIRouter()
 )
 async def get_questions(
     skip: int = 0,
-    limit: int = 100,
+    limit: int = 10,
     engine: AIOEngine = Depends(AIOEngineDependency()),
     creds: HTTPAuthorizationCredentials = Depends(HTTPBearer(auto_error=False))
 ):
     async with Context.protected(engine=engine, access_token=creds):
-        return await engine.find(Question, skip=skip, limit=limit)
+        return await engine.find(Question, skip=skip, limit=limit, sort=Question.created_at.desc())
 
 
 @router.post(
