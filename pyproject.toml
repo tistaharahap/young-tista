@@ -12,6 +12,9 @@ tista = "young_tista.main:app"
 python = "^3.10"
 openai = "^0.25.0"
 typer = "^0.7.0"
+odmantic = "^0.9.1"
+uvicorn = "^0.20.0"
+fastapi = "^0.88.0"
 
 
 [build-system]

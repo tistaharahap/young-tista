@@ -236,8 +236,5 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,intellij
 
 .profiles
-run-local.sh
-run-chaser.sh
-run-seeder.sh
-run-holdco-local.sh
+run-api.sh
 
