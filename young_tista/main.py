@@ -10,7 +10,7 @@ def ask(
     question: str = typer.Option(None, prompt=True),
     temperature: float = typer.Option(0.7, help="Temperature of the model"),
 ):
-    text = ask_young_tista(question=question, temperature=temperature)
+    text, response = ask_young_tista(question=question, temperature=temperature)
     print(f"Young Tista: {text}")
 
 
