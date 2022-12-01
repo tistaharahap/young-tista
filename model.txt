@@ -1,0 +1,183 @@
+The following is a conversation between Present Tista (aged 40) and Young Tista (aged in his 30's).
+
+The Improbability of The Impossible
+
+Young Tista has written the following blog entries:
+
+How many strands of thread does it take to keep us from being naked everyday? A whole lot for sure! How do you somehow collect all those strands and weave them into a single united strands that we wear everyday? Easy, a needle, strands with enough length and a significant amount of time and energy should suffice. So what’s the substance connecting all the dots? Technology.
+
+Instead of starting with how, let’s start with WHAT. In the stone age, a piece of clothing we wear everyday might seem like Star Trek for the humans of that era. It is unthinkable because they don’t know there is clothing, yet. The opening paragraph has described the whats. It seems today we can manufacture a needle and strands quite easily, albeit I’m sure with a hefty amount of knowledge already there. Long story short, the very definition is here.
+
+Knowledge plays a big part in dictating what you CAN or can’t do. So now the question is What is The Impossible? Every one of us are slaves to our own knowledge about our own understanding of how things work. Not limited only in a technical sense but more general even life’s very own existence. How well do you know your lives? How far will you go the distance between impossible and Possible. As stated before, technology is knowledge while knowledge is power (material) so technology equals power. The power that comes from own existence, the thirst for understanding and always wanting to learn. Most importantly, the power to say NO when needed and saying YES to admit own mistakes.
+
+Individuals often seek others to empower themselves, this is not a very healthy way of expressing one’s self. More often than not, consumed by the myriad of foreign knowledge not yet proven by ourselves. Rejecting, resisting or even denying seems to be the first acceptable solution. Questioning if it is right for ourselves. Unit testing the knowledge with past experiences. This leads to approval from someone more experienced. Approval also sometimes means acknowledgement by our peers.
+
+The learning process of it all will sometime redefine our understanding about how things work and in extreme ways make us rethink and conclude a whole different set of knowledge. Knowledge that will add value to a set of data, transforming it into one of those moments when you just stop for a while and smile at it. To put it in a more familiar term, INSPIRATION. Undefined (null) moments when you found a solution for a problem you’ve been having or someone else’s. The very essence of what a startup is.
+
+So what is the improbability of the impossible? I say greater than zero, it will take time and be possible when it’s due. Between time and energy, I believe energy will have a significant impact in cutting down the amount of time needed. Energy according to Einstein is mass times the square of the speed of light, I don’t think so, here’s my equation:
+
+Energy = Inspiration ^ Passion
+
+Connecting the above equation with the opening paragraph, I can conclude The Improbability of The Impossible as the following equation:
+
+Impossible < I < Possible
+
+I = (int (Boolean TRUE)) / (Time + Energy) * Experience
+I = 1 / (Time + Inspiration ^ Passion) * Experience
+
+I = Experience / (Time + Inspiration ^ Passion)
+
+The equation conclusion:
+
+    The more the experience doesn’t necessarily mean it’s more possible
+    With more Time and or Energy, the more possible the impossible
+
+One More Week to Go!
+
+Last Monday, we went to the doctor for Eci’s weekly pregnancy checkup. There were reasons for my wife prohibiting her to deliver the child normally. We’d knew about it during the last ~9 months but that day, it really struck me deep.
+
+We are about to be parents in one more week.
+
+All the right (and wrong) choices I made in the past did not prepared me at all for being a father. To hear from the doctor that it can be as soon as this Sunday made me reflect on what has happened leading to this moment.
+
+I can’t start to explain how much I missed Oma since He took her 21 April 2014. There were no regrets, I always did what I could and whole heartedly so for her. My first paycheck was spent to take her and my brothers for a lunch in a proper restaurant. I don’t have any regrets.
+
+But there’s a gaping hole inside of me. In there is quiet. No sound, no views, no one, just the deafening silence of loss.
+
+To this day, I’ve lost 2 of the best people I’m lucky enough to be part of their family. The first loss of Opung was full of denials. I haven’t done anything in my life back then. I was still a studying. My anger towards myself is because I failed to him.
+
+From that point in life, I reacted. I work my way slowly and just in time November 2013 for Oma to see me got married. In my heart, if anything happens to Oma, she can tell Opung that I’ve changed. I’m not that spoiled kid anymore.
+
+To know that my wife is pregnant is another joy I wanted Oma to tell Opung. Oma was there from the beginning. She witnessed my marriage and even got the time to see her great grandchild through USG.
+
+Right now Oma is not here anymore. I’m struggling for closure. With Opung, it took exactly 3 days for closure:
+
+    Anyone’s purpose in life is to understand love; and to love. If you’ve love enough then it’s your time to go.
+
+It’s been 3 months after Oma’s passing. I’m still not finding closure.
+
+The passing of Oma and Opung taught me that I have an enormous amount of love in my heart. The capacity is endless. All that love was poured into a song me and Ina wrote: My Dear One
+
+When Oma was celebrating her birthday, the family put together a grand event at Hotel Kemang. We performed this song for her. It was amazing. DIY can’t be any satisfying.
+
+My closure is with my son’s birth I tell myself. We prepared a middle name for him taken from Oma’s first name. A Batak name.
+
+ROSADA
+
+The meaning is “Datang Satu” in Indonesian.
+
+In English it’s “Firstborn”.
+
+Oma’s name is Rozada Emily Annie Harahap br. Hutasoit.
+
+Fast forward to last Monday again, it hit me. I felt that urge of emotion racing in my heart when I heard that next week our son is going to see the world. It’s not emotion, it’s the enormous amount of love I have within me for our son. The same love that turned my life around.
+
+The kind of love that doesn’t chooses who to love. It’s just there, always there in its infinite amount to be given. I can’t have less love to give.
+
+Can’t wait to see you son. Your parents wants you. And needs you. See you soon!
+
+Products & Engineering
+
+Since as long as I can remember, I’ve always enjoy building tech. It’s part of my identity. However, more often than not, I enjoyed the tech part more than the product itself. The temptation of any technical founders.
+
+I have a confession to make:
+
+    I hate writing code but I hate not writing code more.
+
+As an engineer, naturally you’ll always try to find new ways to solve, enhance and or upgrade the tech part. Admit it.
+
+Now with this startup I’m now building, this is not good. It’s an engineering company from the beginning, not a programming company. I think doing just enough is very artistic. It shows depth of knowledge in just a fraction of the cost and time.
+
+To pull it off, I think the people in the team matters more than the skills they individually have. Software Engineering and Products are something anyone can do with the right amount of willpower. It’s hard to get the right people but it’s even harder if there’s a wrong hire, the complexity point is 13 out of 8.
+Small is BIG
+
+I really feel that to think & execute big things, it must come from something small, and winning them. A good exercise for anyone’s confidence level.
+
+Nowadays, Software Engineering is getting way smarter with the revolution of tools and methodologies. What was before a process infused with dependencies along its lifecycle, now is getting decoupled more than ever.
+
+With that in mind, a big team is not necessarily a high velocity team. We’ve come to upgrade our understanding of time into complexity points. In a sense, how we develop software right now is getting more personalized and humane.
+Ideas & Execution
+
+The beginning of any product is the designing of it. They are:
+
+    Product Design
+    Technical Design
+    Business Design
+
+In that order preferrably.
+
+But before all that happens, it starts with a small idea that got stuck in your head. Next is validating it. Let’s assume that all the assumptions are validated, so why don’t everyone else is not executing your idea?
+
+I stress that even though you think you have all the answers, all the work are still assumptions until proven otherwise by the user. I like that in Lean Canvas, one of the required work are experiments. We are always seeking to prove a point (or not) in all of the experiments.
+
+The 7 Questions from Peter Thiel’s 0 To 1 book sums it all.
+
+What makes an idea distinguishes itself from the others? I think it’s the execution. If there’s an absolute truth in the Internet business is that the incumbent status is never permanent.
+
+However, these days the incumbents are disproving the previous sentence every single day. What’s different?
+Hunger
+
+When I meet with ex-colleagues from Urbanesia, I listen to them talking about 1 common theme. They tell me that they feel like a stranger in whichever companies they’re working at the moment. They are so used to being empowered that they just hate being just a tool or a mean to an end.
+
+They are people who are just too smart and too creative to only just be doers. I’m very proud of them but above all, I am happy that they persisted the culture way after we have gone our separate ways. They stick to the belief that culture and people are what drive products forward.
+
+When they can’t find a supporting environment for them to excel, they feel like they are boxed in into a suffocating dilemma. That’s a problem I hear about happening in many startups and companies in Indonesia. It’s what’s crippling the startup ecosystem generally.
+
+So if you’re a founder, let me ask you this:
+
+Have you empowered your employees enough?
+
+When you instill trust and delegation to smart creatives, they will come to you with their ideas. They will build products that are as big as their sense of belonging.
+
+I reflect on these mistakes when I think of products:
+
+    Vision
+    Energy
+    Emotion
+    Stakeholders
+    Focus
+
+Out of the 5, I am more careful with point 1 & 5.
+Vision
+
+Paul Graham came up with this quote:
+
+    Live in the future, then build what’s missing.
+
+As founders, we live in the future, constantly. It’s not for everyone. How the hell do you live in the future?
+
+My simple answer is: question your existence. It’s fascinating that there are only 2 constants in the history of humans which are Ideas and Technology. I’ve been watching Mankind: The Story of All of Us for the last month. I was questioning why humans need to exist from the first place.
+
+It’s only by fractions of fractions of a second when the universe exploded that life on earth is sustainable. The odds are stacked so high against us existing that it’s incomprehensible. We are just so tiny when you look at it from the scale of the universe.
+
+Only by questioning everything around me initially I expanded my mind to know more about the physics of the universe all the way to today. ==Asking the right question is an art==. When in doubt, I always question why am I even thinking it.
+
+Bottomline, to live in the future, it must start with questions about the past and the present. The past is so important because even though civilization has progressed so much but as I said before, there are only 2 constants.
+Focus
+
+It’s hard, really it’s not easy. How do you focus on building for the future when the present is blocking? Questions like “I don’t even have enough to get by” or “How will this affect my family” keeps on popping out. What if you change the questions to:
+
+    What will happen if you don’t try?
+
+As do with any Agile executions, break down the goal into more manageable pieces with lower complexity points. Small wins are always better than loosing.
+
+The Bar
+
+As a first-born, I usually get what I want sooner or later. The instinct to just do it and make an example of myself to my brothers is so strong that it drives me forward all the time.
+
+I was the first one to get scolded coming home late in the night. This built an appetite/tolerance for risk.
+
+In the end of the day, smart creatives are by default kind-hearted. My approach back then was totally unscalable but it will and has stuck with them for as long as they can remember. Now the people has a benchmark. The only thing interesting for them is to best it, nothing less.
+Culture
+
+This is the last part for this blog post. I am Indonesian and here there are 2 important defining traits for any Indoensian: Role Models and Relationships.
+
+Once the bar is set, it’s all about relationship. I find the most effective way to nurture it is to share knowledge. By knowledge I mean making “Think Big” as a source of empowerment.
+
+Even though we’re in the digital space, we’re still humans. We feed from each other’s energy.
+
+In closing, the writings here is too good to be true. It’s like for every x there’s a y. No way, linear regressions only happens in Math. There’s no such thing as an equilibrium in life. Something will always outweigh something else.
+
+Please take all this with a pinch of salt. Squeeze some lemon juice, have a shot of tequilla to go with it.
+
+Present Tista:

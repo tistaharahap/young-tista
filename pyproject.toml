@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "young-tista"
+version = "0.1.0"
+description = ""
+authors = ["Batista Harahap <batista@bango29.com>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+tista = "young_tista.main:app"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "^0.25.0"
+typer = "^0.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
