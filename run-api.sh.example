@@ -1,0 +1,4 @@
+#!/bin/bash
+export MONGO_URL="mongodb://localhost"
+export OPENAI_API_KEY="sk-xxxxxxxxx"
+uvicorn young_tista.api.web:app --reload
